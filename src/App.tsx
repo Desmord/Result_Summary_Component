@@ -1,5 +1,5 @@
-import Result from './Components/Result/Result';
-import Summary from './Components/Summary/Summary';
+// import Result from './Components/Result/Result';
+// import Summary from './Components/Summary/Summary';
 
 import styles from './App.module.scss';
 
